@@ -1,3 +1,3 @@
-GitPython==3.1.37
+GitPython==3.1.41
 logzero==1.5.0
 pandas==1.0.3
